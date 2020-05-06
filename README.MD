@@ -25,11 +25,13 @@ Common scenario of Deep Learning application to healthcare domain is brilliant p
 
 ## MRI segmentation
 
+U-Net based segmentation of MRI data. Encoder/decoder are pre-trained on ImageNet.
+
 ![](img/segmentation.png)
 
 ## Data availability
 
-Unfortunately, data is not available for sharing right now.
+Unfortunately, data is not available for sharing right now because of privacy concerns.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
